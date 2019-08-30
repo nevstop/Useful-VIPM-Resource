@@ -1,12 +1,12 @@
 # Useful-VIPM-Resource
 
-## OpenG.vipc
+## [OpenG.vipc](http://sine.ni.com/nips/cds/view/p/lang/zhs/nid/209027)
 
 OpenG Programming Palette Libraries Collection.
 
 ![63904019-25107a80-ca42-11e9-9194-c0d7a4055e8a](https://user-images.githubusercontent.com/8196752/63988792-78e99500-cb10-11e9-99e0-96251295c29d.png)
 
-## MGI.vipc
+## [MGI.vipc](http://sine.ni.com/nips/cds/view/p/lang/zhs/nid/209753)
 
 MGI Programming Palette Libraries Collection.
 
