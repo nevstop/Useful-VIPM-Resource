@@ -1,3 +1,11 @@
+### Use [NEVSTOP-3rdParty-Dependencies](https://github.com/NEVSTOP-LAB/NEVSTOP-3rdParty-Dependencies) instead. 
+
+[![Build_VIPM_Library](https://github.com/NEVSTOP-LAB/NEVSTOP-3rdParty-Dependencies/actions/workflows/Build_VIPM_Library.yml/badge.svg)](https://github.com/NEVSTOP-LAB/NEVSTOP-3rdParty-Dependencies/actions/workflows/Build_VIPM_Library.yml)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/NEVSTOP-LAB/NEVSTOP-3rdParty-Dependencies)](https://github.com/NEVSTOP-LAB/NEVSTOP-3rdParty-Dependencies/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/NEVSTOP-LAB/NEVSTOP-3rdParty-Dependencies/total)](https://github.com/NEVSTOP-LAB/NEVSTOP-3rdParty-Dependencies/releases)
+
+```
 # Useful-VIPM-Resource
 
 ## [OpenG.vipc](http://sine.ni.com/nips/cds/view/p/lang/zhs/nid/209027)
@@ -15,3 +23,4 @@ MGI Programming Palette Libraries Collection.
 ## [JKI State Machine Template](https://github.com/JKISoftware/JKI-State-Machine)
 
 ![JKI_State_Machine](https://user-images.githubusercontent.com/381432/48812124-bbf71c00-ece5-11e8-9528-dce7fb072d05.png)
+```
